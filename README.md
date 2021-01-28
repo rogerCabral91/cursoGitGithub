@@ -3,8 +3,9 @@
 Curso de versionamento usando *Git e Github* do *Curso em Vídeo* pelo **Gustavo Guanabara**.
 
 
-O curso consiste em 13 aulas que abordam a história do versionamento e o <br>
-surgimento da ferramenta Git e da rede GitHub. Dentre as aulas temos:
+O curso consiste em 13 aulas que abordam desde o surgimento da ferramenta Git e da rede GitHub até as funcionalidades básicas de uso, boas práticas e segurança do [GitHub Desktop](https://desktop.github.com) e do [GitHub.com](https://github.com). 
+
+Dentre as aulas temos: (com atualização do meu progresso no curso)
 
 
 - [x] [Aula 1 - O que é Git? O que é versionamento?](https://www.youtube.com/watch?v=xEKo29OWILE)
